@@ -5,9 +5,13 @@ The Used Car Market Analysis project is an in-depth study of the used car market
 Key Components:
 
 Data Collection: Analysis of a dataset containing 5,000 used car sales, including year, make, model, kilometers, body type, fuel type, transmission, and price.
+
 Regression Analysis: Employing regression techniques to determine the impact of various factors like make, model, and mileage on car prices.
+
 Exploratory Data Analysis (EDA): Using scatterplots and correlation analysis to explore relationships between different variables.
+
 Time Series Analysis: Evaluating market trends over the years, focusing on the number of cars sold and average pricing trends.
+
 Key Insights:
 
 Identification of key factors such as make, model, kilometers driven, and body type as significant influencers of used car prices.
